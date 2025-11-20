@@ -1,0 +1,39 @@
+{
+  "metrics": {
+    "title_length": 50,
+    "meta_length": 131,
+    "title_has_primary": {
+      "smart led bulb": true,
+      "app-controlled lighting": false,
+      "voice assistant compatible": false,
+      "energy saving light bulb": false,
+      "16 million colors": true
+    },
+    "meta_has_primary": {
+      "smart led bulb": true,
+      "app-controlled lighting": false,
+      "voice assistant compatible": false,
+      "energy saving light bulb": false,
+      "16 million colors": false
+    },
+    "keyword_density": {
+      "smart led bulb": 1.389,
+      "app-controlled lighting": 0.0,
+      "voice assistant compatible": 0.0,
+      "energy saving light bulb": 0.0,
+      "16 million colors": 1.389
+    }
+  },
+  "suggestions": [
+    "Primary keyword 'app-controlled lighting' not found in title — consider adding it near the start.",
+    "Primary keyword 'voice assistant compatible' not found in title — consider adding it near the start.",
+    "Primary keyword 'energy saving light bulb' not found in title — consider adding it near the start.",
+    "Primary keyword 'app-controlled lighting' not found in meta description — include it naturally.",
+    "Primary keyword 'voice assistant compatible' not found in meta description — include it naturally.",
+    "Primary keyword 'energy saving light bulb' not found in meta description — include it naturally.",
+    "Primary keyword '16 million colors' not found in meta description — include it naturally.",
+    "Primary keyword 'app-controlled lighting' not found in long description — include it naturally.",
+    "Primary keyword 'voice assistant compatible' not found in long description — include it naturally.",
+    "Primary keyword 'energy saving light bulb' not found in long description — include it naturally."
+  ]
+}

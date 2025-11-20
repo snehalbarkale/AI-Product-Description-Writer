@@ -1,0 +1,42 @@
+{
+  "metrics": {
+    "title_length": 49,
+    "meta_length": 123,
+    "title_has_primary": {
+      "laptop cooling pad": true,
+      "rgb cooling pad": false,
+      "silent laptop cooler": false,
+      "adjustable laptop stand": false,
+      "laptop fan pad": false
+    },
+    "meta_has_primary": {
+      "laptop cooling pad": false,
+      "rgb cooling pad": false,
+      "silent laptop cooler": false,
+      "adjustable laptop stand": false,
+      "laptop fan pad": false
+    },
+    "keyword_density": {
+      "laptop cooling pad": 1.149,
+      "rgb cooling pad": 0.0,
+      "silent laptop cooler": 0.0,
+      "adjustable laptop stand": 0.0,
+      "laptop fan pad": 0.0
+    }
+  },
+  "suggestions": [
+    "Primary keyword 'rgb cooling pad' not found in title — consider adding it near the start.",
+    "Primary keyword 'silent laptop cooler' not found in title — consider adding it near the start.",
+    "Primary keyword 'adjustable laptop stand' not found in title — consider adding it near the start.",
+    "Primary keyword 'laptop fan pad' not found in title — consider adding it near the start.",
+    "Primary keyword 'laptop cooling pad' not found in meta description — include it naturally.",
+    "Primary keyword 'rgb cooling pad' not found in meta description — include it naturally.",
+    "Primary keyword 'silent laptop cooler' not found in meta description — include it naturally.",
+    "Primary keyword 'adjustable laptop stand' not found in meta description — include it naturally.",
+    "Primary keyword 'laptop fan pad' not found in meta description — include it naturally.",
+    "Primary keyword 'rgb cooling pad' not found in long description — include it naturally.",
+    "Primary keyword 'silent laptop cooler' not found in long description — include it naturally.",
+    "Primary keyword 'adjustable laptop stand' not found in long description — include it naturally.",
+    "Primary keyword 'laptop fan pad' not found in long description — include it naturally."
+  ]
+}

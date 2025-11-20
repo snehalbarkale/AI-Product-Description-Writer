@@ -1,0 +1,38 @@
+{
+  "metrics": {
+    "title_length": 46,
+    "meta_length": 131,
+    "title_has_primary": {
+      "bluetooth speaker": true,
+      "360° sound": false,
+      "waterproof speaker": false,
+      "long battery": false,
+      "deep bass sound": false
+    },
+    "meta_has_primary": {
+      "bluetooth speaker": true,
+      "360° sound": true,
+      "waterproof speaker": false,
+      "long battery": true,
+      "deep bass sound": false
+    },
+    "keyword_density": {
+      "bluetooth speaker": 1.235,
+      "360° sound": 1.235,
+      "waterproof speaker": 0.0,
+      "long battery": 0.0,
+      "deep bass sound": 0.0
+    }
+  },
+  "suggestions": [
+    "Primary keyword '360° sound' not found in title — consider adding it near the start.",
+    "Primary keyword 'waterproof speaker' not found in title — consider adding it near the start.",
+    "Primary keyword 'long battery' not found in title — consider adding it near the start.",
+    "Primary keyword 'deep bass sound' not found in title — consider adding it near the start.",
+    "Primary keyword 'waterproof speaker' not found in meta description — include it naturally.",
+    "Primary keyword 'deep bass sound' not found in meta description — include it naturally.",
+    "Primary keyword 'waterproof speaker' not found in long description — include it naturally.",
+    "Primary keyword 'long battery' not found in long description — include it naturally.",
+    "Primary keyword 'deep bass sound' not found in long description — include it naturally."
+  ]
+}

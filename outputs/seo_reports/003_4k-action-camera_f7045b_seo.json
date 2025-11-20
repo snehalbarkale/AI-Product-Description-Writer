@@ -1,0 +1,42 @@
+{
+  "metrics": {
+    "title_length": 42,
+    "meta_length": 101,
+    "title_has_primary": {
+      "4k action camera": true,
+      "waterproof camera": false,
+      "stabilized video": false,
+      "slow motion camera": false,
+      "outdoor photography": false
+    },
+    "meta_has_primary": {
+      "4k action camera": false,
+      "waterproof camera": false,
+      "stabilized video": false,
+      "slow motion camera": false,
+      "outdoor photography": false
+    },
+    "keyword_density": {
+      "4k action camera": 1.235,
+      "waterproof camera": 0.0,
+      "stabilized video": 0.0,
+      "slow motion camera": 0.0,
+      "outdoor photography": 0.0
+    }
+  },
+  "suggestions": [
+    "Primary keyword 'waterproof camera' not found in title — consider adding it near the start.",
+    "Primary keyword 'stabilized video' not found in title — consider adding it near the start.",
+    "Primary keyword 'slow motion camera' not found in title — consider adding it near the start.",
+    "Primary keyword 'outdoor photography' not found in title — consider adding it near the start.",
+    "Primary keyword '4k action camera' not found in meta description — include it naturally.",
+    "Primary keyword 'waterproof camera' not found in meta description — include it naturally.",
+    "Primary keyword 'stabilized video' not found in meta description — include it naturally.",
+    "Primary keyword 'slow motion camera' not found in meta description — include it naturally.",
+    "Primary keyword 'outdoor photography' not found in meta description — include it naturally.",
+    "Primary keyword 'waterproof camera' not found in long description — include it naturally.",
+    "Primary keyword 'stabilized video' not found in long description — include it naturally.",
+    "Primary keyword 'slow motion camera' not found in long description — include it naturally.",
+    "Primary keyword 'outdoor photography' not found in long description — include it naturally."
+  ]
+}

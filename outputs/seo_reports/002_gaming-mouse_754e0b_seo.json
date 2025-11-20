@@ -1,0 +1,34 @@
+{
+  "metrics": {
+    "title_length": 47,
+    "meta_length": 110,
+    "title_has_primary": {
+      "gaming mouse": true,
+      "rgb lighting": true,
+      "programmable buttons": false,
+      "16000 dpi": false,
+      "ergonomic design": false
+    },
+    "meta_has_primary": {
+      "gaming mouse": true,
+      "rgb lighting": false,
+      "programmable buttons": true,
+      "16000 dpi": true,
+      "ergonomic design": false
+    },
+    "keyword_density": {
+      "gaming mouse": 1.639,
+      "rgb lighting": 1.639,
+      "programmable buttons": 1.639,
+      "16000 dpi": 1.639,
+      "ergonomic design": 1.639
+    }
+  },
+  "suggestions": [
+    "Primary keyword 'programmable buttons' not found in title — consider adding it near the start.",
+    "Primary keyword '16000 dpi' not found in title — consider adding it near the start.",
+    "Primary keyword 'ergonomic design' not found in title — consider adding it near the start.",
+    "Primary keyword 'rgb lighting' not found in meta description — include it naturally.",
+    "Primary keyword 'ergonomic design' not found in meta description — include it naturally."
+  ]
+}
